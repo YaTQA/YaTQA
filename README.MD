@@ -1,4 +1,4 @@
-![YaTQA](http://yat.qa/common/logo2.png)
+# ![YaTQA](http://yat.qa/common/logo2.png)
 
 [Info & Download](http://yat.qa/) [Features](http://yat.qa/features/) [Manual](http://yat.qa/manual/) [Changelog](http://yat.qa/changelog/) [FAQ](http://yat.qa/faq/) [Support & Contact](http://yat.qa/support/) [Resources](http://yat.qa/resources/) [About](http://yat.qa/about/) [Deutsch](http://yat.qa/ueber/)
 
