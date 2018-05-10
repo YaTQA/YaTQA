@@ -1,7 +1,10 @@
-MICROSOFT REFERENCE SOURCE LICENSE (MS-RSL)
+End User License Agreement  
+
+**MICROSOFT REFERENCE SOURCE LICENSE (MS-RSL)**
 
 This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
-1. Definitions
+
+### 1\. Definitions
 
 The terms "reproduce," "reproduction" and "distribution" have the same meaning here as under U.S. copyright law.
 
@@ -12,12 +15,14 @@ The terms "reproduce," "reproduction" and "distribution" have the same meaning h
 "Reference use" means use of the software within your company as a reference, in read only form, for the sole purposes of debugging your products, maintaining your products, or enhancing the interoperability of your products with the software, and specifically excludes the right to distribute the software outside of your company.
 
 "Licensed patents" means any Licensor patent claims which read directly on the software as distributed by the Licensor under this license.
-2. Grant of Rights
+
+### 2\. Grant of Rights
 
 (A) Copyright Grant- Subject to the terms of this license, the Licensor grants you a non-transferable, non-exclusive, worldwide, royalty-free copyright license to reproduce the software for reference use.
 
 (B) Patent Grant- Subject to the terms of this license, the Licensor grants you a non-transferable, non-exclusive, worldwide, royalty-free patent license under licensed patents for reference use.
-3. Limitations
+
+### 3\. Limitations
 
 (A) No Trademark License- This license does not grant you any rights to use the Licensor's name, logo, or trademarks.
 
